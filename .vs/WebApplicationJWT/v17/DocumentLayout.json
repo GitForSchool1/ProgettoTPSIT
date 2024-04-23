@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|c:\\users\\hyspa\\source\\repos\\webapplicationjwt\\intruder\\intruder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|solutionrelative:intruder\\intruder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|c:\\users\\hyspa\\source\\repos\\webapplicationjwt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|c:\\users\\hyspa\\source\\repos\\webapplicationjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|c:\\users\\hyspa\\source\\repos\\webapplicationjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|c:\\users\\hyspa\\source\\repos\\webapplicationjwt\\intruder\\makerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|solutionrelative:intruder\\makerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|c:\\users\\hyspa\\source\\repos\\webapplicationjwt\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|c:\\users\\hyspa\\source\\repos\\webapplicationjwt\\models\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|solutionrelative:models\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|c:\\users\\hyspa\\source\\repos\\webapplicationjwt\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|solutionrelative:models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|c:\\users\\hyspa\\source\\repos\\webapplicationjwt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE79244-57B7-475F-843F-DCA12217FC80}|WebApplicationJWT.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T11:27:05.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MakeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Intruder\\MakeRequest.cs",
+              "RelativeDocumentMoniker": "Intruder\\MakeRequest.cs",
+              "ToolTip": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Intruder\\MakeRequest.cs",
+              "RelativeToolTip": "Intruder\\MakeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:13:53.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Intruder.cs",
+              "DocumentMoniker": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Intruder\\Intruder.cs",
+              "RelativeDocumentMoniker": "Intruder\\Intruder.cs",
+              "ToolTip": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Intruder\\Intruder.cs",
+              "RelativeToolTip": "Intruder\\Intruder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:11:51.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Models\\UserLogin.cs",
+              "RelativeToolTip": "Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:56:18.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:21:07.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:03:48.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T10:58:45.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Header.cs",
+              "DocumentMoniker": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Models\\Header.cs",
+              "RelativeDocumentMoniker": "Models\\Header.cs",
+              "ToolTip": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Models\\Header.cs",
+              "RelativeToolTip": "Models\\Header.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:56:11.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\hyspa\\source\\repos\\WebApplicationJWT\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:55:57.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
