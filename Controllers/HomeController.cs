@@ -17,6 +17,7 @@ namespace WebApplicationJWT.Controllers
         [HttpGet("AuthenticationTest")]
         public IActionResult Login(UserLogin model)
         {
+            Console.WriteLine(model.toString());
             if (model.UserName == "Fabio" && model.Password == "CiaoMammaComeStai?IoStoBeneeTuchemidici?")
             {
                 var token = GenerateToken(model);
